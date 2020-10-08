@@ -30,3 +30,11 @@ In this section of the course we discuss how you can continuously improve your m
 ![Knowledge_Check_4_2](/The_Elements_of_Data_Science/images/Knowledge_Check_4_2.PNG)
 ![Knowledge_Check_4_3](/The_Elements_of_Data_Science/images/Knowledge_Check_4_3.PNG)
 ![Knowledge_Check_4_4](/The_Elements_of_Data_Science/images/Knowledge_Check_4_4.PNG)
+
+# Model Evaluation and Model Productionizing
+In this section of the course, we'll focus on the production phase of the machine learning pipeline. We'll review the cycle of machine learning projects, and examine how AWS services can help the storage, monitoring, and maintenance aspects of model production.  
+
+![Knowledge_Check_5_1](/The_Elements_of_Data_Science/images/Knowledge_Check_5_1.PNG)
+![Knowledge_Check_5_2](/The_Elements_of_Data_Science/images/Knowledge_Check_5_2.PNG)
+![Knowledge_Check_5_3](/The_Elements_of_Data_Science/images/Knowledge_Check_5_3.PNG)
+![Knowledge_Check_5_4](/The_Elements_of_Data_Science/images/Knowledge_Check_5_4.PNG)
