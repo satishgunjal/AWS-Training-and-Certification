@@ -1,6 +1,8 @@
 # [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 In this course, we'll explore the machine learning process from end-to-end. It's important to know how data influences and impacts this process, because your machine learning solution is only as good as the data that drives it.
 
+![The_Elements_of_Data_Science_Certificate](/The_Elements_of_Data_Science/images/The_Elements_of_Data_Science_Certificate.PNG)
+
 # What is Data Science?
 In this section we'll discuss managing, analyzing, and visualizing data. Machine learning models are only useful when you have high-quality data, which can be curated using the data science workflow.
 
